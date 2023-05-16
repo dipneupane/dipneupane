@@ -9,6 +9,8 @@ I love writing on Medium about full-stack software development.
 
 📩 Read my latest Blog Posts on Medium
 <!-- BLOG-POST-LIST:START -->
+- [Automate your deployment pipeline with self-hosted GitHub actions.](https://medium.com/@dipneupane/how-to-setup-ci-cd-pipeline-using-self-hosted-github-actions-8e15608e8954?source=rss-37161d399cd7------2)
+- [Deploying NextJs Application on Window’s IIS Server](https://medium.com/@dipneupane/deploying-nextjs-application-on-windows-iis-server-cabdc22bccf8?source=rss-37161d399cd7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### A quick display about my GitHub Activity
