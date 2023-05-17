@@ -1,3 +1,5 @@
+![Alt text](https://github.com/dipneupane/dipneupane/blob/main/assets/dipneupane_readme.jpg)
+
 ## Hi 👋 Dipendra here, 
 I am a full-stack software engineer who specializes in backend-end development. I am working at [AeriTech LLC](https://aeritech.com).
 
