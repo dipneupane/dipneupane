@@ -11,6 +11,7 @@ I love writing on Medium about full-stack software development.
 
 📩 Read my latest Blog Posts on Medium
 <!-- BLOG-POST-LIST:START -->
+- [Bypassing ASP.NET Core 6.0 [Authorize] attribute for integration tests](https://medium.com/@dipneupane/bypassing-asp-net-core-6-0-authorize-attribute-for-integration-tests-3d8d4649ee22?source=rss-37161d399cd7------2)
 - [Replace your Resume with an Impressive GitHub Profile README.](https://medium.com/@dipneupane/replace-your-resume-with-an-impressive-github-profile-readme-3019183a3029?source=rss-37161d399cd7------2)
 - [Automate your deployment pipeline with self-hosted GitHub actions.](https://medium.com/@dipneupane/how-to-setup-ci-cd-pipeline-using-self-hosted-github-actions-8e15608e8954?source=rss-37161d399cd7------2)
 - [Deploying NextJs Application on Window’s IIS Server](https://medium.com/@dipneupane/deploying-nextjs-application-on-windows-iis-server-cabdc22bccf8?source=rss-37161d399cd7------2)
