@@ -12,9 +12,9 @@ I love writing on Medium about full-stack software development.
 <!-- BLOG-POST-LIST:START -->
 - [Boost your Coding Skills with these 11 C# Tips](https://medium.com/@dipneupane/boost-your-coding-skills-with-these-11-c-tips-57db093bfe3b?source=rss-37161d399cd7------2)
 - [How to Boost Application Performance by optimizing Database Calls in ASP.NET Core C#](https://medium.com/@dipneupane/how-to-boost-application-performance-by-optimizing-database-calls-in-asp-net-core-c-30f75c0dfd6d?source=rss-37161d399cd7------2)
-- [Right way to integrate ChatGPT with Asp.Net Core | Prompt Engineering](https://medium.com/codenp/right-way-to-integrate-chatgpt-with-asp-net-core-prompt-engineering-2613c808bfb5?source=rss-37161d399cd7------2)
-- [Connecting to Asp.Net Core SignalR Hub from Postman with an example.](https://medium.com/codenp/connecting-to-asp-net-core-signalr-hub-from-postman-with-an-example-275c0f77bec?source=rss-37161d399cd7------2)
-- [Secure Swagger UI with Basic Authentication in Asp.Net Core](https://medium.com/codenp/secure-swagger-ui-with-basic-authentication-in-asp-net-core-74236b1e4c1a?source=rss-37161d399cd7------2)
+- [Right way to integrate ChatGPT with Asp.Net Core | Prompt Engineering](https://medium.com/@dipneupane/right-way-to-integrate-chatgpt-with-asp-net-core-prompt-engineering-2613c808bfb5?source=rss-37161d399cd7------2)
+- [Connecting to Asp.Net Core SignalR Hub from Postman with an example.](https://medium.com/@dipneupane/connecting-to-asp-net-core-signalr-hub-from-postman-with-an-example-275c0f77bec?source=rss-37161d399cd7------2)
+- [Secure Swagger UI with Basic Authentication in Asp.Net Core](https://medium.com/@dipneupane/secure-swagger-ui-with-basic-authentication-in-asp-net-core-74236b1e4c1a?source=rss-37161d399cd7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
