@@ -10,11 +10,11 @@ I love writing on Medium about full-stack software development.
 
 📩 Read my latest Blog Posts on Medium
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide to Managing AppSettings with GitHub Actions](https://medium.com/@dipneupane/the-ultimate-guide-to-managing-appsettings-with-github-actions-f4888cd5653e?source=rss-37161d399cd7------2)
 - [Are You Using C# Tuples Like a Pro? 7 Must-Know Tips](https://medium.com/@dipneupane/are-you-using-c-tuples-like-a-pro-7-must-know-tips-0f035b532c7d?source=rss-37161d399cd7------2)
 - [Hire Me: Let’s Build Something Amazing!](https://medium.com/@dipneupane/hire-me-lets-build-something-amazing-50fb7639f2b1?source=rss-37161d399cd7------2)
 - [Book a 1-on-1 Consultation with Me — Let’s Solve Your Tech Challenges!](https://medium.com/@dipneupane/book-a-1-on-1-consultation-with-me-lets-solve-your-tech-challenges-868409fe10c5?source=rss-37161d399cd7------2)
 - [Boost your Coding Skills with these 11 C# Tips](https://medium.com/@dipneupane/boost-your-coding-skills-with-these-11-c-tips-57db093bfe3b?source=rss-37161d399cd7------2)
-- [How to Boost Application Performance by optimizing Database Calls in ASP.NET Core C#](https://medium.com/@dipneupane/how-to-boost-application-performance-by-optimizing-database-calls-in-asp-net-core-c-30f75c0dfd6d?source=rss-37161d399cd7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
