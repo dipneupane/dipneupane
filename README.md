@@ -12,7 +12,7 @@ I love writing on Medium about full-stack software development.
 <!-- BLOG-POST-LIST:START -->
 - [Automate Test Coverage Reports Like a Pro with GitHub Actions](https://medium.com/nerd-for-tech/automate-test-coverage-reports-like-a-pro-with-github-actions-5b56560afd43?source=rss-37161d399cd7------2)
 - [The Ultimate Guide to Managing AppSettings with GitHub Actions](https://medium.com/nerd-for-tech/the-ultimate-guide-to-managing-appsettings-with-github-actions-f4888cd5653e?source=rss-37161d399cd7------2)
-- [Are You Using C# Tuples Like a Pro? 7 Must-Know Tips](https://medium.com/codenp/are-you-using-c-tuples-like-a-pro-7-must-know-tips-0f035b532c7d?source=rss-37161d399cd7------2)
+- [Are You Using C# Tuples Like a Pro? 7 Must-Know Tips](https://codenp.com/are-you-using-c-tuples-like-a-pro-7-must-know-tips-0f035b532c7d?source=rss-37161d399cd7------2)
 - [Hire Me: Let’s Build Something Amazing!](https://medium.com/@dipneupane/hire-me-lets-build-something-amazing-50fb7639f2b1?source=rss-37161d399cd7------2)
 - [Book a 1-on-1 Consultation with Me — Let’s Solve Your Tech Challenges!](https://medium.com/@dipneupane/book-a-1-on-1-consultation-with-me-lets-solve-your-tech-challenges-868409fe10c5?source=rss-37161d399cd7------2)
 <!-- BLOG-POST-LIST:END -->
