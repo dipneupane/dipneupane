@@ -10,7 +10,7 @@ I love writing on Medium about full-stack software development.
 
 📩 Read my latest Blog Posts on Medium
 <!-- BLOG-POST-LIST:START -->
-- [Can One Loop Make Your C# Code Faster? Foreach vs. For Explained](https://medium.com/@dipneupane/can-one-loop-make-your-c-code-faster-foreach-vs-for-explained-f616f7d3c421?source=rss-37161d399cd7------2)
+- [Can One Loop Make Your C# Code Faster? Foreach vs. For Explained](https://codenp.com/can-one-loop-make-your-c-code-faster-foreach-vs-for-explained-f616f7d3c421?source=rss-37161d399cd7------2)
 - [Virtual vs Sealed vs Static in C#: When to Use Each and Performance Trade-Offs](https://codenp.com/virtual-vs-sealed-vs-static-in-c-when-to-use-each-and-performance-trade-offs-1c910d4d9849?source=rss-37161d399cd7------2)
 - [IEnumerable vs IQueryable In .NET — What Most Developers Miss](https://codenp.com/ienumerable-vs-iqueryable-in-net-what-most-developers-miss-bfc357d663bd?source=rss-37161d399cd7------2)
 - [Avoid the 2GB Trap: Zip Large Files Efficiently in ASP.NET Core](https://codenp.com/avoid-the-2gb-trap-zip-large-files-efficiently-in-asp-net-core-6caab4c96981?source=rss-37161d399cd7------2)
