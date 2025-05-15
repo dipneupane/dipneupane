@@ -10,11 +10,11 @@ I love writing on Medium about full-stack software development.
 
 📩 Read my latest Blog Posts on Medium
 <!-- BLOG-POST-LIST:START -->
+- [Async Await Is Not Magic: Here’s What Happens Under the Hood](https://codenp.com/async-await-is-not-magic-heres-what-happens-under-the-hood-092c8728ffba?source=rss-37161d399cd7------2)
 - [I have deeply investigated Records in C#, so you don’t have to.](https://codenp.com/i-have-deeply-investigated-records-in-c-so-you-dont-have-to-9cff83633a5e?source=rss-37161d399cd7------2)
 - [String Handling in .NET: Performance Pitfalls and Best Practices](https://codenp.com/string-handling-in-net-performance-pitfalls-and-best-practices-4ca0b762929e?source=rss-37161d399cd7------2)
 - [From Clutter to Clarity: Chaining Your ASP.NET Core Startup Like a Pro](https://codenp.com/from-clutter-to-clarity-chaining-your-asp-net-core-startup-like-a-pro-8a557c162fdb?source=rss-37161d399cd7------2)
 - [Can One Loop Make Your C# Code Faster? Foreach vs. For Explained](https://codenp.com/can-one-loop-make-your-c-code-faster-foreach-vs-for-explained-f616f7d3c421?source=rss-37161d399cd7------2)
-- [Virtual vs Sealed vs Static in C#: When to Use Each and Performance Trade-Offs](https://codenp.com/virtual-vs-sealed-vs-static-in-c-when-to-use-each-and-performance-trade-offs-1c910d4d9849?source=rss-37161d399cd7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
