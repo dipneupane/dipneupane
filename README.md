@@ -10,11 +10,11 @@ I love writing on Medium about full-stack software development.
 
 📩 Read my latest Blog Posts on Medium
 <!-- BLOG-POST-LIST:START -->
+- [The Unwritten Rules to Becoming a .NET Senior Developer: 6 Steps to Level Up](https://medium.com/@dipneupane/the-unwritten-rules-to-becoming-a-net-senior-developer-6-steps-to-level-up-6cbb46cd149e?source=rss-37161d399cd7------2)
 - [The No-Fluff Guide to Becoming a DevOps Engineer &lpar;for .NET Devs in 2026&rpar;](https://medium.com/@dipneupane/the-no-fluff-guide-to-becoming-a-devops-engineer-for-net-devs-in-2026-8e4f3a016538?source=rss-37161d399cd7------2)
 - [I Thought I Was a Good .NET Developer — Until These 9 Tools and Habits Changed Everything](https://medium.com/@dipneupane/i-thought-i-was-a-good-net-developer-until-these-9-tools-and-habits-changed-everything-d7a59d0e1ef6?source=rss-37161d399cd7------2)
 - [Async Await Is Not Magic: Here’s What Happens Under the Hood](https://codenp.com/async-await-is-not-magic-heres-what-happens-under-the-hood-092c8728ffba?source=rss-37161d399cd7------2)
 - [I have deeply investigated Records in C#, so you don’t have to.](https://codenp.com/i-have-deeply-investigated-records-in-c-so-you-dont-have-to-9cff83633a5e?source=rss-37161d399cd7------2)
-- [String Handling in .NET: Performance Pitfalls and Best Practices](https://codenp.com/string-handling-in-net-performance-pitfalls-and-best-practices-4ca0b762929e?source=rss-37161d399cd7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
